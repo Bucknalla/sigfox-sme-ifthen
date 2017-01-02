@@ -18,9 +18,9 @@ This tutorial uses a Smart Everything Fox Dev Kit (SME) to show you how to use S
 
 ### Introduction
 
-To get started make sure you check out the [getting stared doc](http://docs-europe.electrocomponents.com/webdocs/144b/0900766b8144b09d.pdf) for the SME to set up the Arduino IDE and installing the correct libraries.
+To get started make sure you check out the [getting started doc](http://docs-europe.electrocomponents.com/webdocs/144b/0900766b8144b09d.pdf) for the SME to set up the Arduino IDE and installing the correct libraries.
 
-To configure this example for your own projects/prototypes, change the 'TEMP' and 'HUM' target values to that of your own preference. You may also change 'DEBUG' to 1 to enable USBSerial output.
+To configure this example for your own projects/prototypes, change the **TEMP** and **HUM** target values to that of your own preference. You may also change **DEBUG** to 1 to enable USBSerial output.
 
 ### Future Improvements
 
